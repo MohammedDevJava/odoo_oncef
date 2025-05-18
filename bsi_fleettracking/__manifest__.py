@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'BSI Fleet Tracking Test',
+    'name': 'BSI Fleet Tracking mohammed',
     'version': '1.2409.2',
     'category': 'Tools',
     'description': u"""
